@@ -1,4 +1,4 @@
-package com.mavendemo;
+package com.learnmaven.mavendemo;
 
 import org.apache.log4j.Logger;
 

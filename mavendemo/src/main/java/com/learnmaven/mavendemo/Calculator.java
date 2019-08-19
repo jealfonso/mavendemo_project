@@ -1,4 +1,4 @@
-package com.mavendemo;
+package com.learnmaven.mavendemo;
 
 public class Calculator {
 
